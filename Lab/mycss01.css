@@ -1,0 +1,36 @@
+body {
+	margin: 96pt; 
+	background-color: #ddddff;
+	border: white groove 12px;
+	padding: 24px;
+	}
+	
+	a {
+		font-size: 18pt;
+		font-family: fantasy;
+	}
+	
+.odds {
+	font-family: serif;
+	font-variant: small-caps;
+	text-align: center;
+}
+#second {
+	color: #green;
+	font-weight: 900;
+}
+#fourth {
+	color: #magenta;
+	font-weight: 900;
+	background-color: green;
+}
+
+a:link {
+	font-size: 18pt;
+	font-family: fast;
+}
+
+a:hover {
+	font-size: 28pt;
+	font-weight: 900;
+}
